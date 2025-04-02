@@ -36,9 +36,6 @@ Edit the COM port in the script:
 arduino_port = 'COM5'  # Replace with your actual port
 Then run:
 
-bash
-Copy
-Edit
 python type_like_human.py
 This script will simulate typing "Hello, World!" with randomized, human-like delays between keystrokes.
 
@@ -96,10 +93,6 @@ MIT License — free to use, modify, and distribute.
 
 💬 Questions or Ideas?
 Open an issue or start a discussion! Contributions welcome 😊
-
-yaml
-Copy
-Edit
 
 ---
 
