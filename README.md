@@ -33,7 +33,6 @@ Upload the provided `.ino` file to your **Leonardo** using the Arduino IDE.
 
 Edit the COM port in the script:
 
-```python
 arduino_port = 'COM5'  # Replace with your actual port
 Then run:
 
